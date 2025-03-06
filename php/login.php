@@ -9,7 +9,7 @@
     </div>
     <img src="../img/usuario.png" alt="">
     <div class="form-group">
-      <label for="exampleInputEmail1">Endereço de email</label>
+      <label for="exampleInputEmail1">Endereço de Email</label>
       <input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Digite seu email" name="email">
     </div>
     <div class="form-group">

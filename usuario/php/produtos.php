@@ -26,8 +26,10 @@
                             Adicionar ao Carrinho
                           </button>";
                     echo "</div>";
+                    
                 }
                 mysqli_close($conexao);
+                
             ?>
         </div>
     </div>
