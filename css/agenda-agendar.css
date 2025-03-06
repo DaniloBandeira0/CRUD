@@ -1,0 +1,28 @@
+select.form-select {
+    background-color: #ffffff;
+    border: 2px solid #bdc3c7;
+    color: #db3026;
+    padding: 10px 15px;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+select.form-select:focus {
+    outline: none;
+    border-color: #db3026;
+    box-shadow: 0 0 5px rgba(253, 13, 13, 0.5);
+}
+
+select.form-select:hover {
+    border-color: #db3026;
+}
+
+select.form-select option {
+    background-color: #ffffff;
+    color: #db3026;
+    padding: 10px;
+    font-size: 16px;
+}
